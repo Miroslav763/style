@@ -1,0 +1,21 @@
+/* Barva pozadí lišty */
+.navbar {
+    background-color: #3498db;
+}
+
+/* Barva textu na liště */
+.navbar a.navbar-brand,
+.navbar a.nav-link {
+    color: #fff;
+}
+
+/* Barva textu na liště po najetí myši */
+.navbar a.nav-link:hover {
+    color: #ff7f50;
+}
+
+
+/* Barva pozadí tlačítka pro rozbalení lišty na mobilu po najetí myši */
+.navbar-toggler-icon:hover {
+    background-color: #ff7f50;
+}
